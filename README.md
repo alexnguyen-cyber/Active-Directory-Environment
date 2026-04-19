@@ -8,18 +8,18 @@
 
 <h2>Languages and Utilities Used</h2>
 
-- PowerShell
-- Active Directory Domain Services
-- Windows Remote Access (RAS/NAT)
-- DHCP Server
-- DNS
+- <b>PowerShell</b>
+- <b>Active Directory Domain Services</b>
+- <b>Windows Remote Access (RAS/NAT)</b>
+- <b>DHCP Server</b>
+- <b>DNS</b>
 
 <h2>Environments Used </h2>
 
-- Windows Server 2019
-- Windows 10 Pro
-- Oracle VirtualBox
-- Virtual Private Network (Internal)
+- <b>Windows Server 2019</b>
+- <b>Windows 10 Pro</b>
+- <b>Oracle VirtualBox</b>
+- <b>Virtual Private Network (Internal)</b>
 
 <h2>Program walk-through:</h2>
 

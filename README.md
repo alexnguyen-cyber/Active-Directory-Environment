@@ -28,7 +28,7 @@ The Identity: <br/>
 <img src="https://i.imgur.com/FymPRFf.png" height="80%" width="80%"/>
 <br />
 <br />
-The "Automation": <br/>
+The Automation: <br/>
 <img src="https://i.imgur.com/pIv27RK.png" height="80%" width="80%"/>
 <img src="https://i.imgur.com/ix9lacB.png" height="80%" width="80%"/>
 <img src="https://i.imgur.com/pGBevxN.png" height="80%" width="80%"/>

@@ -35,7 +35,7 @@ The "Automation": <br/>
 <br />
 <br />
 Active Directory Users & Computers (The 1,000 Users):  <br/>
-<img src="https://i.imgur.com/eRiqUCO.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/CBIYFhb.png" height="80%" width="80%"/>
 <br />
 <br />
 DHCP Lease Confirmation: <br/>

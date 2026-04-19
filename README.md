@@ -24,30 +24,25 @@
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The Identity: <br/>
+<img src="https://i.imgur.com/FymPRFf.png" height="80%" width="80%"/>
+<br />
+<br />
+The "Automation": <br/>
+<img src="https://i.imgur.com/pIv27RK.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/ix9lacB.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/pGBevxN.png" height="80%" width="80%"/>
 <br />
 <br />
 Active Directory Users & Computers (The 1,000 Users):  <br/>
-<img src="https://i.imgur.com/eRiqUCO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eRiqUCO.png" height="80%" width="80%"/>
 <br />
 <br />
 DHCP Lease Confirmation: <br/>
-<img src="https://i.imgur.com/yq0yVok.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jqKzCve.png" height="80%" width="80%"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Command Prompt ipconfig & ping:  <br/>
+<img src="https://i.imgur.com/UOa35TN.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/QXOd5NZ.png" height="80%" width="80%"/>
 </p>

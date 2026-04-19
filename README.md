@@ -1,15 +1,25 @@
-<h1>Home-Lab-Running-Active-Directory</h1>
+<h1>Basic Home Lab: Active Directory Environment (Oracle VirtualBox + PowerShell Automation)</h1>
 
 <h2>Description</h2>
-INSERT DESCRIPTION HERE
-<br />
+
+- Built a comprehensive Windows Active Directory home lab to simulate a production enterprise environment.
+- Configured Windows Server 2019 as a Domain Controller, managing DNS, DHCP, and NAT for internal virtual clients.
+- Utilized PowerShell to automate bulk user creation, demonstrating proficiency in scripting for system administration.
 
 <h2>Languages and Utilities Used</h2>
-- <b>Oracle VirtualBox</b> 
+
+- PowerShell
+- Active Directory Domain Services
+- Windows Remote Access (RAS/NAT)
+- DHCP Server
+- DNS
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b>
+- Windows Server 2019
+- Windows 10 Pro
+- Oracle VirtualBox
+- Virtual Private Network (Internal)
 
 <h2>Program walk-through:</h2>
 
@@ -41,13 +51,3 @@ Sanitization complete:  <br/>
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>

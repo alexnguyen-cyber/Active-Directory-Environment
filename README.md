@@ -1,4 +1,4 @@
-<h1>Basic Home Lab: Active Directory Environment (Oracle VirtualBox + PowerShell Automation)</h1>
+<h1>Active Directory Environment (Oracle VirtualBox + PowerShell Automation)</h1>
 
 <h2>Description</h2>
 
